@@ -1,0 +1,9 @@
+url:        http://the-internet.herokuapp.com/login
+
+login:
+    username_success        :          tomsmith
+    password_success        :          SuperSecretPassword!
+    username_not_found      :          tomholland
+    password_incorrect      :          Password
+    user_invalid            :          Your username is invalid!
+    pass_invalid            :          Your password is invalid!
