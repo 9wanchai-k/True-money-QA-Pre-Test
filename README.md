@@ -12,7 +12,6 @@ https://docs.google.com/spreadsheets/d/19yhNjphGwxynyvM3g2-2v2IGB4EFmDdkUppJnj7S
  ```
 
 ## 3. Create automation script by using RobotFramework following test cases in table below. That will test this web site ‘http://the-internet.herokuapp.com/login’. 
-
 ### [Configuration Overview]
 Installation Library as follow belows:
 - SeleniumLibrary
@@ -24,13 +23,14 @@ The simplest way is using pip package manager:
 pip install -r requirements.txt
  ```
 ####  [Command Line to run testcases]
- **Example for WEB**
+**Example for WEB**
 ```sh
 robot web.robot
  ```
 
 ## 4. Create automation script by using RobotFramework for test Rest API Get request.
- **Example for WEB**
+####  [Command Line to run testcases]
+**Example for API**
 ```sh
 robot api.robot
  ```
